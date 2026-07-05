@@ -11,7 +11,7 @@ export const foundingDocumentLink = process.env.NEXT_PUBLIC_FOUNDING_URL
   : "https://drive.google.com/file/d/1UUaiXeL9h33EVlhzWBjVxfhYaJtab_Or/view?usp=sharing";
 export const referralFormLink = process.env.NEXT_PUBLIC_REFERRAL_URL
   ? process.env.NEXT_PUBLIC_REFERRAL_URL
-  : "https://drive.google.com/file/d/1jXaCrmDxo-Jq101ZTHxRgcMDHJm10YGi/view?usp=sharing";
+  : "https://drive.google.com/file/d/1j6tc7mwOBSOYxsVpfU_yCCJaw5IWSgEG/view?usp=share_link";
 
 // organization.href === "#" is checked for in the homepage to render it as non-clickable
 export const organizations = [
@@ -91,9 +91,10 @@ export const committees = [
   },
   { name: "Dr. Jaishree Sharmini A/P Jivanadham", position: "Chairman" },
   { name: "Dr. Tan Pih Lee", position: "Deputy Chairman" },
-  { name: "Dr. Lim Liang Yik", position: "Secretary" },
-  { name: "Dr. Loo Chia Ming", position: "Assistant Secretary" },
+  { name: "Dr. Shafinas Binti Anwardeen", position: "Secretary" },
+  { name: "Dr. Lim Liang Yik", position: "Assistant Secretary" },
   { name: "Dr. Rachel Jean George", position: "Treasurer" },
+  { name: "Dr. Loo Chia Ming", position: "Assistant Treasurer" },
   { name: "Dr. Siti Khairizan binti Rahim", position: "Committee Member" },
   { name: "Mr. Lim Gou Choong", position: "Committee Member" },
 ];
