@@ -70,11 +70,10 @@ export const organizations = [
       "/images/organization-logos-300-300/Penang Hospice Society 300x300.png",
   },
   {
-    title: "Pusat Perubatan USM Bertam",
+    title: "Pusat Kanser Tun Abdullah Ahmad Badawi",
     // href: "https://ppusmb.usm.my/",
     href: "#",
-    img_path:
-      "/images/organization-logos-300-300/Pusat Perubatan USM Bertam 300x300.png",
+    img_path: "/images/organization-logos-300-300/PKTAAB 300x300.png",
   },
   {
     title: "Tzu-Chi Foundation Malaysia",
@@ -95,8 +94,9 @@ export const committees = [
   { name: "Dr. Lim Liang Yik", position: "Assistant Secretary" },
   { name: "Dr. Rachel Jean George", position: "Treasurer" },
   { name: "Dr. Loo Chia Ming", position: "Assistant Treasurer" },
-  { name: "Dr. Siti Khairizan binti Rahim", position: "Committee Member" },
   { name: "Mr. Lim Gou Choong", position: "Committee Member" },
+  { name: "Dr. Siti Khairizan Binti Rahim", position: "Committee Member" },
+  { name: "Dr. Ong Hock Chye", position: "Auditor" },
 ];
 
 export const images = [
