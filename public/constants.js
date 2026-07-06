@@ -73,7 +73,7 @@ export const organizations = [
     title: "Pusat Kanser Tun Abdullah Ahmad Badawi",
     // href: "https://ppusmb.usm.my/",
     href: "#",
-    img_path: "/images/organization-logos-300-300/PKTAAB 300x300.png",
+    img_path: "/images/organization-logos-300-300/PKTAAB Logo 300x300.png",
   },
   {
     title: "Tzu-Chi Foundation Malaysia",
